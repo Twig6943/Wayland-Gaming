@@ -4,6 +4,8 @@ A repo dedicated to wayland games gaming utils etc..
 
 # Game launchers & utils
 
+Steam ❌
+
 Heroic Games Launcher ✅
 
 Bottles ✅
