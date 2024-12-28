@@ -2,7 +2,7 @@
 
 A repo dedicated to wayland games gaming utils etc..
 
-# Utilities
+# Game launchers & utils
 
 Heroic Games Launcher ✅
 
@@ -17,9 +17,12 @@ Winetricks ✅
 Wine/Proton (Experimental) ✅
 
 # Emulators
+
+Retroarch
+
 Android ✅
 
-Playstation
+Playstation (experimental)
 
 Playstation 2
 
@@ -27,9 +30,9 @@ Playstation 3
 
 Playstation 4
 
-PSP
+Playstation Portable
 
-Ps vita
+Playstation Vita
 
 Original Xbox 
 
