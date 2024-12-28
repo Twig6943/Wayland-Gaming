@@ -4,20 +4,20 @@ A repo dedicated to wayland games gaming utils etc..
 
 # Utilities
 
-Heroic Games Launcher ✔️
+Heroic Games Launcher ✅
 
-Bottles ✔️
+Bottles ✅
 
-Lutris ✔️
+Lutris ✅
 
-Protontricks ✔️
+Protontricks ✅
 
-Winetricks ✔️
+Winetricks ✅
 
-Wine/Proton (Experimental) ✔️
+Wine/Proton (Experimental) ✅
 
 # Emulators
-Android ✔️
+Android ✅
 
 Playstation
 
