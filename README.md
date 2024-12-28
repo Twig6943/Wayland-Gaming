@@ -36,4 +36,4 @@ Playstation Vita
 
 Original Xbox 
 
-Xbox 360 (Wine wayland)
+Xbox 360 ✅ (Wine wayland)
