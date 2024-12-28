@@ -1,5 +1,5 @@
 # Wayland Native Games Compatibility List
-A curated list of trick to run native linux games on Wayland 
+A curated list of tricks to run linux games without XWayland 
 
 | Game | Wayland | Engine | Info |
 |------|---------|--------|------|
@@ -59,6 +59,7 @@ A curated list of trick to run native linux games on Wayland
 | PAYDAY 2 | no | Diesel Engine | SDL2: crash |
 | Portal | no | Source | SDL2: logo and crash |
 | Portal 2 | yes* | Source | SDL2 preload |
+| Phoenix Wright: Ace Attorney Trilogy | yes* | | Play android version via waydroid |
 | PokeMMO | yes* | GLWF | Need a newer version of GLWF, use the Flatpak version and remove the x11 permission |
 | Project Zomboid |  | LWJGL | XWayland: compatibility mode |
 | Robocraft | no | Unity | SDL2: no visible window |
