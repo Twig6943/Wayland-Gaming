@@ -29,6 +29,7 @@ A curated list of tricks to run linux games without XWayland
 | Europa Universalis IV | no | Clausewitz Engine | SDL2: crash |
 | EVERSPACE™ | no | Unreal Engine 4 | SDL2: crash |
 | Factorio | yes* | - | Need `SDL_VIDEODRIVER=wayland` |
+| Friday night funkin' | yes* | - | Need `SDL_VIDEODRIVER=wayland` & up to date SDL |
 | fault - milestone one | yes* | Ren'Py | SDL2 preload |
 | FEZ | yes* | FNA-XNA | SDL2 preload |
 | From the Depths | no | - | SDL2: no visible window |
