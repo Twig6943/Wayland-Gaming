@@ -1,4 +1,4 @@
-# Wayland-Gaming
+a# Wayland-Gaming
 
 A repo dedicated to wayland games gaming utils etc..
 
@@ -18,17 +18,17 @@ Wine/Proton (Experimental) ✅
 
 # Emulators
 
-Retroarch
+Retroarch ✅
 
 Android ✅
 
-Playstation (experimental)
+Playstation ✅ (experimental)
 
 Playstation 2
 
-Playstation 3
+Playstation 3 ✅
 
-Playstation 4
+Playstation 4 ✅
 
 Playstation Portable
 
