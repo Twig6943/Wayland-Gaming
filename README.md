@@ -21,6 +21,16 @@ Android ✔️
 
 Playstation
 
+Playstation 2
+
+Playstation 3
+
+Playstation 4
+
+PSP
+
+Ps vita
+
 Original Xbox 
 
 Xbox 360 (Wine wayland)
