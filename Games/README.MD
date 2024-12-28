@@ -94,8 +94,8 @@ A curated list of tricks to run linux games without XWayland
 
 | Code | Meaning |
 |------|---------|
-| **yes** | Run on Wayland natively without any configuration |
-| **yes*** | Can work on Wayland natively, but need some tinkering with the environment variables |
+| **yes** | Runs on Wayland natively without any configuration |
+| **yes*** | Can work on Wayland natively, but needs some tinkering |
 | **no** | Require XWayland to run |
 
 ## Environment Variables
