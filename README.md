@@ -16,9 +16,8 @@ Protontricks ✅
 
 Winetricks ✅
 
-Wine/Proton (Experimental) ✅
-
 # Emulators
+
 Wine/Proton (Experimental) ✅
 
 Retroarch ✅
