@@ -4,6 +4,7 @@ A curated list of tricks to run linux games without XWayland
 | Game | Wayland | Engine | Info |
 |------|---------|--------|------|
 | Aragami | no | Unity | SDL2: crash |
+| Awaria | yes* | Unity | SDL2 preload, [screenshot](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/Screenshots/Awaria_wayland.png) |
 | Baba Is You | no | Multimedia Fusion 2 | SDL2: crash |
 | Bastion | yes* | FNA-XNA | SDL2 preload mouse KO, xbox pad OK |
 | BattleBlock Theater® | yes* | - | SDL2 preload, [Screenshot](https://github.com/Twig6943/Wayland-Native-Games-Compatibility-List/blob/main/Screenshots/BattleBlock_Theater.png?raw=true) |
