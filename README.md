@@ -36,6 +36,8 @@ Playstation Portable
 
 Playstation Vita
 
+# [Games specific compat list 🎮 ](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/README.MD)
+
 Original Xbox 
 
 Xbox 360 ✅ (Wine wayland)
