@@ -4,7 +4,7 @@ A curated list of tricks to run linux games without XWayland
 | Game | Wayland | Engine | Info |
 |------|---------|--------|------|
 | Aragami | no | Unity | SDL2: crash |
-| Awaria | yes* | Unity | SDL2 preload, [screenshot](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/Screenshots/Awaria_wayland.png) |
+| Awaria | yes* | Unity | SDL2 preload, download the game from [itch.io](https://vanripper.itch.io/awaria) [screenshot](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/Screenshots/Awaria_wayland.png) |
 | Baba Is You | no | Multimedia Fusion 2 | SDL2: crash |
 | Bastion | yes* | FNA-XNA | SDL2 preload mouse KO, xbox pad OK |
 | BattleBlock Theater® | yes* | - | SDL2 preload, [Screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/BattleBlock_Theater.png) |
@@ -17,7 +17,7 @@ A curated list of tricks to run linux games without XWayland
 | Chivalry: Medieval Warfare | yes* | Unreal Engine 3 | SDL2 preload mouse KO |
 | Cities: Skylines | no | Unity | launcher fail to start game |
 | Counter-Strike: Global Offensive | yes* | Source | SDL2 preload |
-| Counter-Strike: 2 | yes* | Source 2 | SDL2 preload (this is experimental as hell) |
+| Counter-Strike: 2 | yes* | Source 2 | SDL2 preload (this is very experimental) |
 | Crusader Kings II | no | Clausewitz Engine | SDL2: crash |
 | Day of Infamy | yes* | Source | SDL2 preload |Day of Dragons
 | DDNet | yes | | Install from [flatpak](https://flathub.org/apps/tw.ddnet.ddnet), [Screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/ddnet.png) |
@@ -29,7 +29,7 @@ A curated list of tricks to run linux games without XWayland
 | Euro Truck Simulator 2 | no | Prism3D | SDL2 : no effect |
 | Europa Universalis IV | no | Clausewitz Engine | SDL2: crash |
 | EVERSPACE™ | no | Unreal Engine 4 | SDL2: crash |
-| Factorio | yes* | - | Need `SDL_VIDEODRIVER=wayland` |
+| Factorio | yes* | - | SDL2 preload |
 | Friday night funkin' | yes* | - | SDL2 preload |
 | fault - milestone one | yes* | Ren'Py | SDL2 preload |
 | FEZ | yes* | FNA-XNA | SDL2 preload |
@@ -40,6 +40,7 @@ A curated list of tricks to run linux games without XWayland
 | Gear Up | no | - | SDL2 : no effect |
 | Guns of Icarus Online | no | Unity | SDL2 : no effect |
 | Hearts of Iron IV | no | Clausewitz Engine | launcher fail to start game |
+| Helltaker | no | Unity | SDL2 preload doesn't work, probably because the unity version of the game is old |
 | HITMAN™ | no | - | SDL2: no visible window |
 | Hollow Knight | no | Unity | SDL2: no visible window |
 | Iconoclasts | no | Construct 3 | SDL2 : no effect |
@@ -97,9 +98,9 @@ A curated list of tricks to run linux games without XWayland
 
 | Code | Meaning |
 |------|---------|
-| **yes** | Runs on Wayland natively without any configuration |
+| **yes** | The pc port runs on Wayland natively without any configuration |
 | **yes*** | Can work on Wayland natively, but needs some tinkering |
-| **no** | Require XWayland to run |
+| **no** | Requires XWayland to run |
 
 ## Environment Variables
 
