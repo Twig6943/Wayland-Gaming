@@ -89,7 +89,7 @@ A curated list of tricks to run linux games without XWayland
 | Unturned | no | Unity | SDL2: crash |
 | VA-11 Hall-A: Cyberpunk Bartender Action | no | GameMaker Studio | SDL2 : no effect |
 | VirtuaVerse | yes* | Unity | Need `SDL_DYNAMIC_API` and `SDL_VIDEODRIVER` |
-| War Thunder | no | - | SDL2 : no effect |
+| War Thunder | yes | - | Use the [flatpak](https://flathub.org/apps/net.gaijin.WarThunder) |
 | We. The Revolution | no | - | SDL2: no visible window |
 | Whispering Willows | no | Unity | SDL2: crash |
 | XCOM® 2 | no | Unreal Engine 3 | SDL2: crash |
