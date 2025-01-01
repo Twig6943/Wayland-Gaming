@@ -30,7 +30,7 @@ A curated list of tricks to run linux games without XWayland
 | Europa Universalis IV | no | Clausewitz Engine | SDL2: crash |
 | EVERSPACE™ | no | Unreal Engine 4 | SDL2: crash |
 | Factorio | yes* | - | Need `SDL_VIDEODRIVER=wayland` |
-| Friday night funkin' | yes* | - | Need `SDL_VIDEODRIVER=wayland` & up to date SDL |
+| Friday night funkin' | yes* | - | SDL2 preload |
 | fault - milestone one | yes* | Ren'Py | SDL2 preload |
 | FEZ | yes* | FNA-XNA | SDL2 preload |
 | From the Depths | no | - | SDL2: no visible window |
@@ -70,7 +70,7 @@ A curated list of tricks to run linux games without XWayland
 | Saints Row: The Third | yes* | - | SDL2 preload |
 | Seers Isle | no | - | XWayland crash |
 | Shadow of the Tomb Raider | yes* | - | SDL2 preload |
-| Speedrunners | yes* | FNA-XNA | SDL2 preload |
+| Speedrunners | yes* | FNA-XNA | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Speedrunners.png) |
 | Synergy | yes* | Source | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Synergy.png) |
 | Shan Gui (山桂) | no | - | XWayland crash |
 | Sid Meier's Civilization® V | no | Gamebryo | SDL2: crash |
