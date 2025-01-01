@@ -20,7 +20,7 @@ Winetricks ✅
 
 Windows ✅ | ([Wine](https://gitlab.winehq.org/wine/wine)/[Proton](https://github.com/ValveSoftware/Proton)) (Experimental) 
 
-Retroarch ✅ | ((all retroarch cores)[https://docs.libretro.com/guides/core-list/#]) 
+Retroarch ✅ | ([all retroarch cores](https://docs.libretro.com/guides/core-list/#)) 
 
 Android ✅ | ([Waydroid](waydro.id)) 
 
