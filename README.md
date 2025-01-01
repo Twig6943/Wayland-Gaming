@@ -36,4 +36,8 @@ Xbox 360 ✅ | ([XENIA](https://github.com/xenia-canary/xenia-canary) Wine wayla
 
 Nintendo Switch ✅ |  (Yuzu and its forks/idk about ryujinx forks) ✅
 
+Nintendo Wii | ([Dolphin]())
+
+Nintendo Wii U ✅ | ([Cemu](https://cemu.info/)) 
+
 # [Games specific compat list 🎮 ](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/README.MD)
