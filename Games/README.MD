@@ -71,6 +71,7 @@ A curated list of tricks to run linux games without XWayland
 | Seers Isle | no | - | XWayland crash |
 | Shadow of the Tomb Raider | yes* | - | SDL2 preload |
 | Speedrunners | yes* | FNA-XNA | SDL2 preload |
+| Synergy | yes* | Source | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Synergy.png) |
 | Shan Gui (山桂) | no | - | XWayland crash |
 | Sid Meier's Civilization® V | no | Gamebryo | SDL2: crash |
 | Snow Light | no | - | SDL2: logo and crash |
