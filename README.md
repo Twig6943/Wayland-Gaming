@@ -34,7 +34,7 @@ Original Xbox ✅ | ([xemu](https://xemu.app/) Use the `SDL_VIDEODRIVER=wayland,
 
 Xbox 360 ✅ | ([XENIA](https://github.com/xenia-canary/xenia-canary) Wine wayland)
 
-Nintendo Switch ✅ |  (Yuzu and its forks/idk about ryujinx forks) ✅
+Nintendo Switch ✅ |  (Yuzu and its forks/idk about ryujinx forks)
 
 Nintendo Wii U ✅ | ([Cemu](https://cemu.info/)) 
 
