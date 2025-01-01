@@ -100,7 +100,7 @@ A curated list of tricks to run linux games without XWayland
 |------|---------|
 | **yes** | The linux port runs on Wayland natively without any configuration |
 | **yes*** | The linux port can work on Wayland natively, but needs some tinkering |
-| **no** | The linux port requires XWayland to run. Try emulating another port of the game |
+| **no** | The linux port either doesn't exist or requires XWayland to run. Try emulating another port of the game |
 | **no*** | There isn't a port of the game that you can emulate without XWayland. |
 
 ## Environment Variables
