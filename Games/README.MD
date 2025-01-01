@@ -4,7 +4,7 @@ A curated list of tricks to run linux games without XWayland
 | Game | Wayland | Engine | Info |
 |------|---------|--------|------|
 | Aragami | no | Unity | SDL2: crash |
-| Awaria | yes* | Unity | SDL2 preload, download the game from [itch.io](https://vanripper.itch.io/awaria) [screenshot](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/Screenshots/Awaria_wayland.png) |
+| Awaria | yes* | Unity | SDL2 preload, download the game from [itch.io](https://vanripper.itch.io/awaria) [screenshot](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/Screenshots/Awaria.png) |
 | Baba Is You | no | Multimedia Fusion 2 | SDL2: crash |
 | Bastion | yes* | FNA-XNA | SDL2 preload mouse KO, xbox pad OK |
 | BattleBlock Theater® | yes* | - | SDL2 preload, [Screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/BattleBlock_Theater.png) |
@@ -81,7 +81,7 @@ A curated list of tricks to run linux games without XWayland
 | Stellaris | no | Clausewitz Engine | SDL2: crash |
 | Tabletop Simulator | yes* | - | Need `SDL_DYNAMIC_API` and `SDL_VIDEODRIVER` |
 | Terraria | yes* | FNA-XNA | SDL2 preload mouse KO |
-| Team Fortress 2 | yes* | Source | SDL2 preload |
+| Team Fortress 2 | yes* | Source | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/team_fortress_2.png) |
 | The Coma: Recut | no | - | SDL2: crash |
 | The Witcher 2: Assassins of Kings Enhanced Edition | yes* | REDengine | SDL2 preload need mouse border calibration |
 | Tomb Raider | no | - | SDL2: no visible window |
