@@ -4,7 +4,7 @@ A repo dedicated to wayland games gaming utils etc..
 
 # Game launchers & utils
 
-Steam ❌
+Steam ❌ ([Related issue](https://github.com/ValveSoftware/steam-for-linux/issues/4924))
 
 Heroic Games Launcher ✅
 
