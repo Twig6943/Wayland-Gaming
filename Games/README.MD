@@ -7,7 +7,7 @@ A curated list of tricks to run linux games without XWayland
 | Awaria | yes* | Unity | SDL2 preload, [screenshot](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/Screenshots/Awaria_wayland.png) |
 | Baba Is You | no | Multimedia Fusion 2 | SDL2: crash |
 | Bastion | yes* | FNA-XNA | SDL2 preload mouse KO, xbox pad OK |
-| BattleBlock Theater® | yes* | - | SDL2 preload, [Screenshot](https://github.com/Twig6943/Wayland-Native-Games-Compatibility-List/blob/main/Screenshots/BattleBlock_Theater.png?raw=true) |
+| BattleBlock Theater® | yes* | - | SDL2 preload, [Screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/BattleBlock_Theater.png) |
 | Besiege | no | Unity | SDL2 : no effect |
 | BioShock Infinite | yes* | Unreal Engine 3 | SDL2 preload |
 | BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien | no | - | SDL2: crash |
@@ -20,7 +20,7 @@ A curated list of tricks to run linux games without XWayland
 | Counter-Strike: 2 | yes* | Source 2 | SDL2 preload (this is experimental as hell) |
 | Crusader Kings II | no | Clausewitz Engine | SDL2: crash |
 | Day of Infamy | yes* | Source | SDL2 preload |Day of Dragons
-| DDNet | yes | | Install from [flatpak](https://flathub.org/apps/tw.ddnet.ddnet), [Screenshot](https://github.com/Twig6943/Wayland-Native-Games-Compatibility-List/blob/main/Screenshots/ddnet.png?raw=true) |
+| DDNet | yes | | Install from [flatpak](https://flathub.org/apps/tw.ddnet.ddnet), [Screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/ddnet.png) |
 | Dead Cells | yes*	 | - | [See](https://gist.github.com/ToxicMushroom/d6cd025656f75e425c14249c1bc53f96) |
 | Deus Ex: Mankind Divided | no | Dawn Engine | SDL2: no visible window |
 | DiRT Rally | no | Ego Engine | SDL2: no visible window |
@@ -54,7 +54,7 @@ A curated list of tricks to run linux games without XWayland
 | Mad Max | no | Apex Engine | SDL2: no visible window |
 | Metro 2033 : Redux | no | 4A Engine | SDL2 : OpenGL 4.0 or later has not been found |
 | Metro Last Light : Redux | no | 4A Engine | SDL2 : OpenGL 4.0 or later has not been found |
-| Minecraft | yes* | LWJGL | Your launcher needs to support the use of system libs / Your glfw pkg must be newer than 3.4 or higher, [Screenshot](https://github.com/Twig6943/Wayland-Native-Games-Compatibility-List/blob/main/Screenshots/Minecraft.png?raw=true)  |
+| Minecraft | yes* | LWJGL | Your launcher needs to support the use of system libs / Your glfw pkg must be newer than 3.4 or higher, [Screenshot](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/Screenshots/Minecraft.png?raw=true)  |
 | Mini Metro | no | Unity | SDL2: crash |
 | Momodora: Reverie Under The Moonlight | no | GameMaker Studio | SDL2 : no effect |
 | Northgard | no | - | SDL2: crash |
