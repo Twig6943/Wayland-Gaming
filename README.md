@@ -12,9 +12,9 @@ Lutris ✅
 
 Bottles ✅
 
-Protontricks ✅
-
 Winetricks ✅
+
+Protontricks ✅
 
 # Emulators
 
