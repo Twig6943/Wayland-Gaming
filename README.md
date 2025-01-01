@@ -32,11 +32,9 @@ Playstation Vita ✅ | ([Vita3k](https://vita3k.org/) Use the `SDL_VIDEODRIVER=w
 
 Original Xbox ✅ | ([xemu](https://xemu.app/) Use the `SDL_VIDEODRIVER=wayland,x11` env var to activate wayland backend) 
 
-Xbox 360 ✅ | ([XENIA](https://github.com/xenia-canary/xenia-canary) Wine wayland) | 
+Xbox 360 ✅ | ([XENIA](https://github.com/xenia-canary/xenia-canary) Wine wayland)
 
 Nintendo Switch ✅ |  (Yuzu and its forks/idk about ryujinx forks) ✅
-
-Nintendo Wii | ([Dolphin]())
 
 Nintendo Wii U ✅ | ([Cemu](https://cemu.info/)) 
 
