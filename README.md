@@ -30,7 +30,7 @@ Playstation 4 ✅ | ([ShadPS4](https://shadps4.net))
 
 Playstation Vita ✅ | ([Vita3k](https://vita3k.org/) Use the `SDL_VIDEODRIVER=wayland,x11` env var to activate wayland backend, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/emulators/screenshots/XEMU.png) ) 
 
-Original Xbox ✅ | ([xemu](https://xemu.app/) Use the `SDL_VIDEODRIVER=wayland,x11` env var to activate wayland backend) 
+Original Xbox ✅ | ([xemu](https://xemu.app/)
 
 Xbox 360 ✅ | ([XENIA](https://github.com/xenia-canary/xenia-canary) Wine wayland)
 
