@@ -40,7 +40,7 @@ A curated list of tricks to run linux games without XWayland
 | Gear Up | no | - | SDL2 : no effect |
 | Guns of Icarus Online | no | Unity | SDL2 : no effect |
 | Hearts of Iron IV | no | Clausewitz Engine | launcher fail to start game |
-| Helltaker | no | Unity | SDL2 preload doesn't work, probably because the unity version of the game is old |
+| Helltaker | no* | Unity | SDL2 preload doesn't work, probably because the unity version of the game is old |
 | HITMAN™ | no | - | SDL2: no visible window |
 | Hollow Knight | no | Unity | SDL2: no visible window |
 | Iconoclasts | no | Construct 3 | SDL2 : no effect |
