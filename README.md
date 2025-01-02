@@ -18,7 +18,7 @@ Protontricks ✅
 
 # Emulators
 
-Windows ✅ | ([Wine](https://gitlab.winehq.org/wine/wine)/[Proton](https://github.com/ValveSoftware/Proton)) (Experimental) 
+Windows ✅ | ([Wine](https://gitlab.winehq.org/wine/wine)/[Proton](https://github.com/ValveSoftware/Proton) Experimental) 
 
 Retroarch ✅ | ([all retroarch cores](https://docs.libretro.com/guides/core-list/#)) 
 
@@ -39,3 +39,5 @@ Nintendo Switch ✅ |  (Yuzu and its forks/idk about ryujinx)
 Nintendo Wii U ✅ | ([Cemu](https://cemu.info/)) 
 
 # [Games specific compat list 🎮 ](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/README.MD)
+
+### Fork of [spazziale](https://github.com/spazziale/Wayland-Native-Games-Compatibility-List)'s repository.
