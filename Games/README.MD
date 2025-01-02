@@ -21,7 +21,7 @@ A curated list of tricks to run linux games without XWayland
 | Crusader Kings II | no | Clausewitz Engine | SDL2: crash |
 | Day of Infamy | yes* | Source | SDL2 preload |Day of Dragons
 | DDNet | yes | | Install from [flatpak](https://flathub.org/apps/tw.ddnet.ddnet), [Screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/ddnet.png) |
-| Dead Cells | yes*	 | - | [See](https://gist.github.com/ToxicMushroom/d6cd025656f75e425c14249c1bc53f96) |
+| Dead Cells | yes*	 | Heaps | [See](https://gist.github.com/ToxicMushroom/d6cd025656f75e425c14249c1bc53f96) |
 | Deus Ex: Mankind Divided | no | Dawn Engine | SDL2: no visible window |
 | DiRT Rally | no | Ego Engine | SDL2: no visible window |
 | Distance | no | - | SDL2 : no effect |
