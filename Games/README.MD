@@ -122,7 +122,3 @@ To run an SDL2 application on Wayland, set `SDL_VIDEODRIVER=wayland`
 Fedora, Arch: `SDL_DYNAMIC_API=/usr/lib64/libSDL2-2.0.so`
 
 Flatpak: `SDL_DYNAMIC_API="/usr/lib/x86_64-linux-gnu/libSDL2-2.0.so.0"`
-
-## Special thanks
-Forked from: https://gist.github.com/mrintrepide/6bf1bf5cc087928009545d4d28c4af08
-
