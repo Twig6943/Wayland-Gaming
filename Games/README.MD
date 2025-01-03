@@ -14,6 +14,7 @@ A curated list of tricks to run linux games without XWayland
 | Black Mesa | yes* | Source | SDL2 preload |
 | Borderlands 2 | no | Unreal Engine 3 | SDL2: error |
 | Celeste | yes* | FNA-XNA | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Celeste.png) |
+| Clone Hero | yes* | Unity | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Clone_hero.png) |
 | Chivalry: Medieval Warfare | yes* | Unreal Engine 3 | SDL2 preload mouse KO |
 | Cities: Skylines | no | Unity | launcher fail to start game |
 | Counter-Strike: Global Offensive | yes* | Source | SDL2 preload |
