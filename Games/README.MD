@@ -39,6 +39,7 @@ A curated list of tricks to run linux games without XWayland
 | Game Dev Tycoon | no | NW.js | SDL2 : no effect |
 | Garry's Mod | yes* | Source | SDL2 preload |
 | Gear Up | no | - | SDL2 : no effect |
+| Grand Theft Auto IV | no | RAGE | Got it running with proton-tkg, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/GtaIV.png) |
 | Guns of Icarus Online | no | Unity | SDL2 : no effect |
 | Hearts of Iron IV | no | Clausewitz Engine | launcher fail to start game |
 | Helltaker | no* | Unity | SDL2 preload doesn't work, probably because the unity version of the game is old |
