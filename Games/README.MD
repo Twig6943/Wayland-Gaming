@@ -67,6 +67,7 @@ A curated list of tricks to run linux games without XWayland
 | PokeMMO | yes* | GLWF | Need a newer version of GLWF, use the Flatpak version and remove the x11 permission |
 | Project Zomboid |  | LWJGL | XWayland: compatibility mode |
 | Robocraft | no | Unity | SDL2: no visible window |
+| Roblox/Sober | yes |  | Use [sober](https://sober.vinegarhq.org/) to play, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Roblox.png) |
 | ReIII | yes* | RAGE | Game uses glfw for windowing soo all you need to do is compile with wayland support (Couldn't find a binary that has wayland support enabled) |
 | ReVC | yes* | RAGE | Game uses glfw for windowing soo all you need to do is compile with wayland support (Couldn't find a binary that has wayland support enabled) |
 | Rocket League® | yes* | Unreal Engine 3 | SDL2 preload Native RL deprecated, for online game need Proton/RocketLeague |
