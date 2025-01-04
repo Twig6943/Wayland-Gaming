@@ -6,6 +6,8 @@ A repo dedicated to wayland games gaming utils etc..
 
 Steam ❌ | ([Related issue](https://github.com/ValveSoftware/steam-for-linux/issues/4924))
 
+Windows/Wine 🟨 | ([Wine](https://gitlab.winehq.org/wine/wine)/[Proton](https://github.com/ValveSoftware/Proton) both are Experimental) 
+
 Heroic Games Launcher ✅
 
 Lutris ✅
@@ -17,8 +19,6 @@ Winetricks ✅
 Protontricks ✅
 
 # Emulators
-
-Windows ✅ | ([Wine](https://gitlab.winehq.org/wine/wine)/[Proton](https://github.com/ValveSoftware/Proton) Experimental) 
 
 Retroarch ✅ | ([all retroarch cores](https://docs.libretro.com/guides/core-list/#)) 
 
