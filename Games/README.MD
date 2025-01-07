@@ -15,6 +15,7 @@ A curated list of tricks to run linux games without XWayland
 | Borderlands 2 | no | Unreal Engine 3 | SDL2: error |
 | Celeste | yes* | FNA-XNA | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Celeste.png) |
 | Clone Hero | yes* | Unity | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Clone_hero.png) |
+| Chess | yes | | Install from [flatpak](https://flathub.org/apps/org.gnome.Chess) |
 | Chivalry: Medieval Warfare | yes* | Unreal Engine 3 | SDL2 preload mouse KO |
 | Cities: Skylines | no | Unity | launcher fail to start game |
 | Counter-Strike: Global Offensive | yes* | Source | SDL2 preload |
@@ -50,6 +51,7 @@ A curated list of tricks to run linux games without XWayland
 | Insurgency | yes* | Source | SDL2 preload |
 | ISLANDERS | no | Unity | SDL2: crash |
 | Kerbal Space Program | no | Unity | SDL2: crash |
+| Keypunch | yes | | Install from flatpak(https://flathub.org/apps/dev.bragefuglseth.Keypunch)|
 | Left 4 Dead 2 | yes* | Source | SDL2 preload |
 | Life is Strange - Episode 1 | no | Unreal Engine 3 | SDL2: crash |
 | Life is Strange 2 | yes* | Unreal Engine 4 | SDL2 preload |
@@ -57,7 +59,7 @@ A curated list of tricks to run linux games without XWayland
 | Mad Max | no | Apex Engine | SDL2: no visible window |
 | Metro 2033 : Redux | no | 4A Engine | SDL2 : OpenGL 4.0 or later has not been found |
 | Metro Last Light : Redux | no | 4A Engine | SDL2 : OpenGL 4.0 or later has not been found |
-| Minecraft | yes* | LWJGL | Your launcher needs to support the use of system libs / Your glfw pkg must be newer than 3.4 or higher, [Screenshot](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/Screenshots/Minecraft.png?raw=true)  |
+| Minecraft | yes* | LWJGL | Your launcher needs to support the use of system libs / Your glfw pkg must be 3.4 or higher, [Screenshot](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/Screenshots/Minecraft.png?raw=true)  |
 | Mini Metro | no | Unity | SDL2: crash |
 | Momodora: Reverie Under The Moonlight | no | GameMaker Studio | SDL2 : no effect |
 | Northgard | no | - | SDL2: crash |
@@ -76,11 +78,13 @@ A curated list of tricks to run linux games without XWayland
 | Saints Row: The Third | yes* | - | SDL2 preload |
 | Seers Isle | no | - | XWayland crash |
 | Shadow of the Tomb Raider | yes* | - | SDL2 preload |
+| Space Cadet | yes | | Install the [flatpak](https://flathub.org/apps/com.github.k4zmu2a.spacecadetpinball) |
 | Speedrunners | yes* | FNA-XNA | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Speedrunners.png) |
 | Synergy | yes* | Source | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Synergy.png) |
 | Shan Gui (山桂) | no | - | XWayland crash |
 | Sid Meier's Civilization® V | no | Gamebryo | SDL2: crash |
 | Snow Light | no | - | SDL2: logo and crash |
+| Solitaire | yes | - | Install from [flatpak](https://flathub.org/apps/org.kde.kpat) |
 | Sound of Drop - fall into poison - | yes* | - | SDL2 preload |
 | Star Conflict | no | Hammer Engine | SDL2: crash |
 | Stellaris | no | Clausewitz Engine | SDL2: crash |
