@@ -8,7 +8,7 @@ A curated list of tricks to run linux games without XWayland
 | Baba Is You | ❌ | Multimedia Fusion 2 | SDL2: crash |
 | Bastion | 🟡 | FNA-XNA | SDL2 preload mouse KO, xbox pad OK |
 | BattleBlock Theater® | 🟡 | - | SDL2 preload, [Screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/BattleBlock_Theater.png) |
-| Besiege | ❌ | Unity | SDL2 : ❌ effect |
+| Besiege | ❌ | Unity | SDL2 : no effect |
 | BioShock Infinite | 🟡 | Unreal Engine 3 | SDL2 preload |
 | BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien | ❌ | - | SDL2: crash |
 | Black Mesa | 🟡 | Source | SDL2 preload |
@@ -24,30 +24,30 @@ A curated list of tricks to run linux games without XWayland
 | Day of Infamy | 🟡 | Source | SDL2 preload |Day of Dragons
 | DDNet | ✅ | | Install from [flatpak](https://flathub.org/apps/tw.ddnet.ddnet), [Screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/ddnet.png) |
 | Dead Cells | 🟡	 | Heaps | [See](https://gist.github.com/ToxicMushroom/d6cd025656f75e425c14249c1bc53f96) |
-| Deus Ex: Mankind Divided | ❌ | Dawn Engine | SDL2: ❌ visible window |
-| DiRT Rally | ❌ | Ego Engine | SDL2: ❌ visible window |
-| Distance | ❌ | - | SDL2 : ❌ effect |
+| Deus Ex: Mankind Divided | ❌ | Dawn Engine | SDL2: No visible window |
+| DiRT Rally | ❌ | Ego Engine | SDL2: No visible window |
+| Distance | ❌ | - | SDL2 : no effect |
 | Doom | ✅ | Doom | Get [GZDoom](https://zdoom.org/downloads), [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/doom.png) |
-| Dreamfall Chapters | ❌ | Unity | SDL2 : ❌ effect |
-| Euro Truck Simulator 2 | ❌ | Prism3D | SDL2 : ❌ effect |
+| Dreamfall Chapters | ❌ | Unity | SDL2 : no effect |
+| Euro Truck Simulator 2 | ❌ | Prism3D | SDL2 : no effect |
 | Europa Universalis IV | ❌ | Clausewitz Engine | SDL2: crash |
 | EVERSPACE™ | ❌ | Unreal Engine 4 | SDL2: crash |
 | Factorio | 🟡 | - | SDL2 preload |
 | Friday night funkin' | 🟡 | - | SDL2 preload |
 | fault - milestone one | 🟡 | Ren'Py | SDL2 preload |
 | FEZ | 🟡 | FNA-XNA | SDL2 preload |
-| From the Depths | ❌ | - | SDL2: ❌ visible window |
-| FTL: Faster Than Light | ❌ | - | SDL2 : ❌ effect |
-| Game Dev Tycoon | ❌ | NW.js | SDL2 : ❌ effect |
+| From the Depths | ❌ | - | SDL2: No visible window |
+| FTL: Faster Than Light | ❌ | - | SDL2 : no effect |
+| Game Dev Tycoon | ❌ | NW.js | SDL2 : no effect |
 | Garry's Mod | 🟡 | Source | SDL2 preload |
-| Gear Up | ❌ | - | SDL2 : ❌ effect |
+| Gear Up | ❌ | - | SDL2 : no effect |
 | Grand Theft Auto IV | ❌ | RAGE | Got it running with proton-tkg, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/GtaIV.png) |
-| Guns of Icarus Online | ❌ | Unity | SDL2 : ❌ effect |
+| Guns of Icarus Online | ❌ | Unity | SDL2 : no effect |
 | Hearts of Iron IV | ❌ | Clausewitz Engine | launcher fail to start game |
 | Helltaker | ❌ | Unity | SDL2 preload doesn't work, probably because the unity version of the game is old |
-| HITMAN™ | ❌ | - | SDL2: ❌ visible window |
-| Hollow Knight | ❌ | Unity | SDL2: ❌ visible window |
-| Ico❌clasts | ❌ | Construct 3 | SDL2 : ❌ effect |
+| HITMAN™ | ❌ | - | SDL2: No visible window |
+| Hollow Knight | ❌ | Unity | SDL2: No visible window |
+| Iconoclasts | ❌ | Construct 3 | SDL2 : no effect |
 | Indivisible | 🟡 | - | SDL2 preload |
 | Insurgency | 🟡 | Source | SDL2 preload |
 | ISLANDERS | ❌ | Unity | SDL2: crash |
@@ -56,14 +56,14 @@ A curated list of tricks to run linux games without XWayland
 | Left 4 Dead 2 | 🟡 | Source | SDL2 preload |
 | Life is Strange - Episode 1 | ❌ | Unreal Engine 3 | SDL2: crash |
 | Life is Strange 2 | 🟡 | Unreal Engine 4 | SDL2 preload |
-| Life is Strange: Before the Storm | ❌ | Unity | SDL2: ❌ visible window |
-| Mad Max | ❌ | Apex Engine | SDL2: ❌ visible window |
+| Life is Strange: Before the Storm | ❌ | Unity | SDL2: No visible window |
+| Mad Max | ❌ | Apex Engine | SDL2: No visible window |
 | Metro 2033 : Redux | ❌ | 4A Engine | SDL2 : OpenGL 4.0 or later has ❌t been found |
 | Metro Last Light : Redux | ❌ | 4A Engine | SDL2 : OpenGL 4.0 or later has ❌t been found |
 | Minecraft | 🟡 | LWJGL | Your launcher needs to support the use of system libs / Your glfw pkg must be 3.4 or higher, [Screenshot](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/Screenshots/Minecraft.png?raw=true)  |
 | Mini Metro | ❌ | Unity | SDL2: crash |
-| Momodora: Reverie Under The Moonlight | ❌ | GameMaker Studio | SDL2 : ❌ effect |
-| ❌rthgard | ❌ | - | SDL2: crash |
+| Momodora: Reverie Under The Moonlight | ❌ | GameMaker Studio | SDL2 : no effect |
+| Northgard | ❌ | - | SDL2: crash |
 | Osu! | ✅ |  | Use the [flatpak](https://flathub.org/apps/sh.ppy.osu), [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Osu.png) |
 | PAYDAY 2 | ❌ | Diesel Engine | SDL2: crash |
 | Portal | ❌ | Source | SDL2: logo and crash |
@@ -71,7 +71,7 @@ A curated list of tricks to run linux games without XWayland
 | Phoenix Wright: Ace Attorney Trilogy | 🟡 | | Play android version via waydroid, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/AceAttorney.png) |
 | PokeMMO | 🟡 | GLWF | Need a newer version of GLWF, use the Flatpak version and remove the x11 permission |
 | Project Zomboid |  | LWJGL | XWayland: compatibility mode |
-| Robocraft | ❌ | Unity | SDL2: ❌ visible window |
+| Robocraft | ❌ | Unity | SDL2: No visible window |
 | Roblox | ✅ |  | Use [sober](https://sober.vinegarhq.org/) to play, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Roblox.png) |
 | ReIII | 🟡 | RAGE | Game uses glfw for windowing soo all you need to do is compile with wayland support (Couldn't find a binary that has wayland support enabled) |
 | ReVC | 🟡 | RAGE | Game uses glfw for windowing soo all you need to do is compile with wayland support (Couldn't find a binary that has wayland support enabled) |
@@ -85,7 +85,7 @@ A curated list of tricks to run linux games without XWayland
 | Synergy | 🟡 | Source | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Synergy.png) |
 | Shan Gui (山桂) | ❌ | - | XWayland crash |
 | Sid Meier's Civilization® V | ❌ | Gamebryo | SDL2: crash |
-| S❌w Light | ❌ | - | SDL2: logo and crash |
+| Snow Light | ❌ | - | SDL2: logo and crash |
 | Solitaire | ✅ | - | Install from [flatpak](https://flathub.org/apps/org.kde.kpat) |
 | Sound of Drop - fall into poison - | 🟡 | - | SDL2 preload |
 | Star Conflict | ❌ | Hammer Engine | SDL2: crash |
@@ -95,13 +95,13 @@ A curated list of tricks to run linux games without XWayland
 | Team Fortress 2 | 🟡 | Source | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/team_fortress_2.png) |
 | The Coma: Recut | ❌ | - | SDL2: crash |
 | The Witcher 2: Assassins of Kings Enhanced Edition | 🟡 | REDengine | SDL2 preload need mouse border calibration |
-| Tomb Raider | ❌ | - | SDL2: ❌ visible window |
+| Tomb Raider | ❌ | - | SDL2: No visible window |
 | Transistor | ❌ | - | SDL2: logo and crash |
 | Unturned | ❌ | Unity | SDL2: crash |
-| VA-11 Hall-A: Cyberpunk Bartender Action | ❌ | GameMaker Studio | SDL2 : ❌ effect |
+| VA-11 Hall-A: Cyberpunk Bartender Action | ❌ | GameMaker Studio | SDL2 : no effect |
 | VirtuaVerse | 🟡 | Unity | Need `SDL_DYNAMIC_API` and `SDL_VIDEODRIVER` |
 | War Thunder | ✅ | - | Use the [flatpak](https://flathub.org/apps/net.gaijin.WarThunder) |
-| We. The Revolution | ❌ | - | SDL2: ❌ visible window |
+| We. The Revolution | ❌ | - | SDL2: No visible window |
 | Whispering Willows | ❌ | Unity | SDL2: crash |
 | XCOM® 2 | ❌ | Unreal Engine 3 | SDL2: crash |
 
