@@ -27,6 +27,7 @@ A curated list of tricks to run linux games without XWayland
 | Deus Ex: Mankind Divided | no | Dawn Engine | SDL2: no visible window |
 | DiRT Rally | no | Ego Engine | SDL2: no visible window |
 | Distance | no | - | SDL2 : no effect |
+| Doom | yes | Doom | Get [GZDoom](https://zdoom.org/downloads), [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/doom.png) |
 | Dreamfall Chapters | no | Unity | SDL2 : no effect |
 | Euro Truck Simulator 2 | no | Prism3D | SDL2 : no effect |
 | Europa Universalis IV | no | Clausewitz Engine | SDL2: crash |
@@ -63,6 +64,7 @@ A curated list of tricks to run linux games without XWayland
 | Mini Metro | no | Unity | SDL2: crash |
 | Momodora: Reverie Under The Moonlight | no | GameMaker Studio | SDL2 : no effect |
 | Northgard | no | - | SDL2: crash |
+| Osu! | yes |  | Use the [flatpak](https://flathub.org/apps/sh.ppy.osu), [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Osu.png) |
 | PAYDAY 2 | no | Diesel Engine | SDL2: crash |
 | Portal | no | Source | SDL2: logo and crash |
 | Portal 2 | yes* | Source | SDL2 preload |
