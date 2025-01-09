@@ -18,6 +18,7 @@ A curated list of tricks to run linux games without XWayland
 | Chess | ✅ | | Install from [flatpak](https://flathub.org/apps/org.g❌me.Chess) |
 | Chivalry: Medieval Warfare | 🟡 | Unreal Engine 3 | SDL2 preload mouse KO |
 | Cities: Skylines | ❌ | Unity | launcher fail to start game |
+| Counter-Strike | 🟡 | GoldSource | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/counter_strike.png) |
 | Counter-Strike: Global Offensive | 🟡 | Source | SDL2 preload |
 | Counter-Strike: 2 | 🟡 | Source 2 | SDL2 preload (this is very experimental) |
 | Crusader Kings II | ❌ | Clausewitz Engine | SDL2: crash |
@@ -43,6 +44,7 @@ A curated list of tricks to run linux games without XWayland
 | Gear Up | ❌ | - | SDL2 : no effect |
 | Grand Theft Auto IV | ❌ | RAGE | Got it running with proton-tkg, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/GtaIV.png) |
 | Guns of Icarus Online | ❌ | Unity | SDL2 : no effect |
+| Half Life | 🟡 | Gold Source | SDL: preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/half_life.png) |
 | Hearts of Iron IV | ❌ | Clausewitz Engine | launcher fail to start game |
 | Helltaker | ❌ | Unity | SDL2 preload doesn't work, probably because the unity version of the game is old |
 | HITMAN™ | ❌ | - | SDL2: No visible window |
