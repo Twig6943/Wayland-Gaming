@@ -41,3 +41,7 @@ Nintendo Wii U ✅ | ([Cemu](https://cemu.info/))
 # [Game specific compat list 🎮 ](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/README.MD)
 
 ### Fork of [spazziale](https://github.com/spazziale/Wayland-Native-Games-Compatibility-List)'s repository.
+
+# We're looking for contributors ❗
+
+Please create an issue if you're intrested. 
