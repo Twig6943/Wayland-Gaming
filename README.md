@@ -32,7 +32,7 @@ Playstation Vita ✅ | ([Vita3k](https://vita3k.org/) Use the `SDL_VIDEODRIVER=w
 
 Original Xbox ✅ | ([xemu](https://xemu.app/))
 
-Xbox 360 ✅ | ([XENIA](https://github.com/xenia-canary/xenia-canary) Wine wayland)
+Xbox 360 🟨 | ([XENIA](https://github.com/xenia-canary/xenia-canary) Wine wayland)
 
 Nintendo Switch ✅ |  (Yuzu and its forks/Ryujinx might not work without xwayland)
 
