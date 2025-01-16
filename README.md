@@ -38,10 +38,10 @@ Nintendo Switch ✅ |  (Yuzu and its forks/idk about ryujinx)
 
 Nintendo Wii U ✅ | ([Cemu](https://cemu.info/)) 
 
-# [Game specific compat list 🎮 ](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/README.MD)
-
-### Fork of [spazziale](https://github.com/spazziale/Wayland-Native-Games-Compatibility-List)'s repository.
+# [Game specific compatibility list 🎮 ](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/README.MD)
 
 # We're looking for contributors ❗
 
 Please create an issue if you're intrested. 
+
+### This is a fork of [spazziale](https://github.com/spazziale/Wayland-Native-Games-Compatibility-List)'s repository.
