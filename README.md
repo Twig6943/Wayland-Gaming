@@ -34,7 +34,7 @@ Original Xbox ✅ | ([xemu](https://xemu.app/))
 
 Xbox 360 ✅ | ([XENIA](https://github.com/xenia-canary/xenia-canary) Wine wayland)
 
-Nintendo Switch ✅ |  (Yuzu and its forks/idk about ryujinx)
+Nintendo Switch ✅ |  (Yuzu and its forks/Ryujinx might not work without xwayland)
 
 Nintendo Wii U ✅ | ([Cemu](https://cemu.info/)) 
 
