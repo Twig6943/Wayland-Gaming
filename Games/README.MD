@@ -34,10 +34,11 @@ A curated list of tricks to run linux games without XWayland
 | Europa Universalis IV | ❌ | Clausewitz Engine | SDL2: crash |
 | EVERSPACE™ | ❌ | Unreal Engine 4 | SDL2: crash |
 | Factorio | 🟡 | - | SDL2 preload |
-| Friday night funkin' | 🟡 | - | SDL2 preload |
 | fault - milestone one | 🟡 | Ren'Py | SDL2 preload |
 | FEZ | 🟡 | FNA-XNA | SDL2 preload |
+| Five night's at freddys 2 | ❌ | Clickteam | Works with proton-wayland, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Fnaf2.png) |
 | From the Depths | ❌ | - | SDL2: No visible window |
+| Friday night funkin' | 🟡 | - | SDL2 preload |
 | FTL: Faster Than Light | ❌ | - | SDL2 : no effect |
 | Game Dev Tycoon | ❌ | NW.js | SDL2 : no effect |
 | Garry's Mod | 🟡 | Source | SDL2 preload |
@@ -113,7 +114,7 @@ A curated list of tricks to run linux games without XWayland
 |------|---------|
 | **✅** | The linux port runs on Wayland natively without any configuration |
 | **🟡** | The linux port can work on Wayland natively, but needs some tinkering |
-| **❌** | The linux port either doesn't exist or requires XWayland to run. Try emulating a❌ther port of the game |
+| **❌** | The linux port either doesn't exist or requires XWayland to run. Try emulating another port of the game |
 | **💩** | There isn't a port of the game that you can emulate without XWayland. |
 
 ## Environment Variables
