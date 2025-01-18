@@ -68,6 +68,7 @@ A curated list of tricks to run linux games without XWayland
 | Mini Metro | ❌ | Unity | SDL2: crash |
 | Momodora: Reverie Under The Moonlight | ❌ | GameMaker Studio | SDL2 : no effect |
 | Northgard | ❌ | - | SDL2: crash |
+| Oaken | 🟡 | Unity | SDL2: preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Oaken.png) |
 | Osu! | ✅ |  | Use the [flatpak](https://flathub.org/apps/sh.ppy.osu), [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Osu.png) |
 | PAYDAY 2 | ❌ | Diesel Engine | SDL2: crash |
 | Portal | ❌ | Source | SDL2: logo and crash |
