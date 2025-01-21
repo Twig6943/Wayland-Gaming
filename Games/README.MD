@@ -95,6 +95,7 @@ A curated list of tricks to run linux games without XWayland
 | Sound of Drop - fall into poison - | 🟡 | - | SDL2 preload |
 | Star Conflict | ❌ | Hammer Engine | SDL2: crash |
 | Stellaris | ❌ | Clausewitz Engine | SDL2: crash |
+| Super Meat Boy | 🟡 |  | SDL2: preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/SuperMeatBoy.png) |
 | Tabletop Simulator | 🟡 | - | Need `SDL_DYNAMIC_API` and `SDL_VIDEODRIVER` |
 | Terraria | 🟡 | FNA-XNA | SDL2 preload mouse KO |
 | Team Fortress 2 | 🟡 | Source | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/team_fortress_2.png) |
