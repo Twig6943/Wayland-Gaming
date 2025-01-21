@@ -39,7 +39,7 @@ A curated list of tricks to run linux games without XWayland
 | FEZ | 🟡 | FNA-XNA | SDL2 preload |
 | Five nights at Freddy's 2 | ❌ | Clickteam | Works with proton-wayland, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Fnaf2.png) |
 | From the Depths | ❌ | - | SDL2: No visible window |
-| Friday night funkin' | 🟡 | - | SDL2 preload |
+| Friday night funkin' | 🟡 | - | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/FridayNightFunkin.png) |
 | FTL: Faster Than Light | ❌ | - | SDL2 : no effect |
 | Game Dev Tycoon | ❌ | NW.js | SDL2 : no effect |
 | Garry's Mod | 🟡 | Source | SDL2 preload |
