@@ -16,7 +16,7 @@ A curated list of tricks to run linux games without XWayland
 | Borderlands 2 | ❌ | Unreal Engine 3 | SDL2: error |
 | Celeste | 🟡 | FNA-XNA | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Celeste.png) |
 | Clone Hero | 🟡 | Unity | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Clone_hero.png) |
-| Chess | ✅ | | Install from [flatpak](https://flathub.org/apps/org.g❌me.Chess) |
+| Chess | ✅ | | Install from [flatpak](https://flathub.org/apps/org.gnome.Chess) |
 | Chivalry: Medieval Warfare | 🟡 | Unreal Engine 3 | SDL2 preload mouse KO |
 | Cities: Skylines | ❌ | Unity | launcher fail to start game |
 | Counter-Strike | 🟡 | GoldSource | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/counter_strike.png) |
@@ -65,8 +65,8 @@ A curated list of tricks to run linux games without XWayland
 | Life is Strange 2 | 🟡 | Unreal Engine 4 | SDL2 preload |
 | Life is Strange: Before the Storm | ❌ | Unity | SDL2: No visible window |
 | Mad Max | ❌ | Apex Engine | SDL2: No visible window |
-| Metro 2033 : Redux | ❌ | 4A Engine | SDL2 : OpenGL 4.0 or later has ❌t been found |
-| Metro Last Light : Redux | ❌ | 4A Engine | SDL2 : OpenGL 4.0 or later has ❌t been found |
+| Metro 2033 : Redux | ❌ | 4A Engine | SDL2 : OpenGL 4.0 or later has not been found |
+| Metro Last Light : Redux | ❌ | 4A Engine | SDL2 : OpenGL 4.0 or later has not been found |
 | Minecraft | 🟡 | LWJGL | Your launcher needs to support the use of system libs / Your glfw pkg must be 3.4 or higher, [Screenshot](https://github.com/Twig6943/Wayland-Gaming/blob/main/Games/Screenshots/Minecraft.png?raw=true)  |
 | Mini Metro | ❌ | Unity | SDL2: crash |
 | Momodora: Reverie Under The Moonlight | ❌ | GameMaker Studio | SDL2 : no effect |
