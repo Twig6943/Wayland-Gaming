@@ -37,14 +37,17 @@ A curated list of tricks to run linux games without XWayland
 | Factorio | 🟡 | - | SDL2 preload |
 | fault - milestone one | 🟡 | Ren'Py | SDL2 preload |
 | FEZ | 🟡 | FNA-XNA | SDL2 preload |
-| Five nights at Freddy's 2 | ❌ | Clickteam | Works with proton-wayland, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Fnaf2.png) |
+| Five nights at Freddy's 1 | ❌ | Clickteam | Works with wine wayland driver, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Fnaf1.png) |
+| Five nights at Freddy's 2 | ❌ | Clickteam | Works with wine wayland driver, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Fnaf2.png) |
+| Five nights at Freddy's 3 | ❌ | Clickteam | Works with wine wayland driver, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Fnaf3.png) |
+| Five nights at Freddy's 4 | ❌ | Clickteam | Works with wine wayland driver, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Fnaf4.png) |
 | From the Depths | ❌ | - | SDL2: No visible window |
 | Friday night funkin' | 🟡 | - | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/FridayNightFunkin.png) |
 | FTL: Faster Than Light | ❌ | - | SDL2 : no effect |
 | Game Dev Tycoon | ❌ | NW.js | SDL2 : no effect |
 | Garry's Mod | 🟡 | Source | SDL2 preload |
 | Gear Up | ❌ | - | SDL2 : no effect |
-| Grand Theft Auto IV | ❌ | RAGE | Got it running with proton-tkg, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/GtaIV.png) |
+| Grand Theft Auto IV | ❌ | RAGE | Got it running with proton-tkg + wine wayland driver, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/GtaIV.png) |
 | Guns of Icarus Online | ❌ | Unity | SDL2 : no effect |
 | Half Life | 🟡 | Gold Source | SDL: preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/half_life.png) |
 | Hearts of Iron IV | ❌ | Clausewitz Engine | launcher fail to start game |
