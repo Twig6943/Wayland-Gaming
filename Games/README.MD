@@ -76,7 +76,7 @@ A curated list of tricks to run linux games without XWayland
 | PAYDAY 2 | ❌ | Diesel Engine | SDL2: crash |
 | Portal | ❌ | Source | SDL2: logo and crash |
 | Portal 2 | 🟡 | Source | SDL2 preload |
-| Phoenix Wright: Ace Attorney Trilogy | 🟡 | | Play android version via waydroid, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/AceAttorney.png) |
+| Phoenix Wright: Ace Attorney Trilogy | ❌ | | Play android version via waydroid, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/AceAttorney.png) |
 | PokeMMO | 🟡 | GLWF | Need a newer version of GLWF, use the Flatpak version and remove the x11 permission |
 | Project Zomboid |  | LWJGL | XWayland: compatibility mode |
 | Robocraft | ❌ | Unity | SDL2: No visible window |
