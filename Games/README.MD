@@ -59,7 +59,7 @@ A curated list of tricks to run linux games without XWayland
 | Insurgency | 🟡 | Source | SDL2 preload |
 | ISLANDERS | ❌ | Unity | SDL2: crash |
 | Kerbal Space Program | ❌ | Unity | SDL2: crash |
-| Keypunch | ✅ | | Install from flatpak(https://flathub.org/apps/dev.bragefuglseth.Keypunch)|
+| Keypunch | ✅ | | Install from [flatpak](https://flathub.org/apps/dev.bragefuglseth.Keypunch)|
 | Left 4 Dead 2 | 🟡 | Source | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Left4Dead2.png) |
 | Life is Strange - Episode 1 | ❌ | Unreal Engine 3 | SDL2: crash |
 | Life is Strange 2 | 🟡 | Unreal Engine 4 | SDL2 preload |
