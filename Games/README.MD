@@ -93,6 +93,7 @@ A curated list of tricks to run linux games without XWayland
 | Speedrunners | 🟡 | FNA-XNA | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Speedrunners.png) |
 | Synergy | 🟡 | Source | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Synergy.png) |
 | Shan Gui (山桂) | ❌ | - | XWayland crash |
+| Shank 2 | 🟡 | - | SDL2: Preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Shank2.png) |
 | Sid Meier's Civilization® V | ❌ | Gamebryo | SDL2: crash |
 | Snow Light | ❌ | - | SDL2: logo and crash |
 | Solitaire | ✅ | - | Install from [flatpak](https://flathub.org/apps/org.kde.kpat) |
