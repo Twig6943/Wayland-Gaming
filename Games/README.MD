@@ -131,6 +131,7 @@ You need to install the sdl2 package on your distro before doing this.
 | Launcher | How to find it |
 |----------|----------------|
 | Steam | Library > Properties > Launch options > Add environment variables before `%command%` |
+| Lutris | Library > Configure > System options > Environment Variables |
 | Heroic game Launcher | Library > Settings > Environment Variables |
 
 ### SDL_VIDEODRIVER
