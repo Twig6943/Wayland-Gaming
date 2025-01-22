@@ -7,6 +7,7 @@ A curated list of tricks to run linux games without XWayland
 | Awaria | 🟡 | Unity | SDL2: preload, download the game from [itch.io](https://vanripper.itch.io/awaria) ,[screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Awaria.png) |
 | Alien Isolation | 🟡 | Cathode | SDL2: preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/AlienIsolation.png) |
 | Baba Is You | ❌ | Multimedia Fusion 2 | SDL2: crash |
+| Balatro | ❌ |  | Wine wayland, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Balatro.png) |
 | Bastion | 🟡 | FNA-XNA | SDL2 preload mouse KO, xbox pad OK |
 | BattleBlock Theater® | 🟡 | - | SDL2 preload, [Screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/BattleBlock_Theater.png) |
 | Besiege | ❌ | Unity | SDL2 : no effect |
