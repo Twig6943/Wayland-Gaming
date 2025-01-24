@@ -91,6 +91,7 @@ A curated list of tricks to run linux games without XWayland
 | Shadow of the Tomb Raider | 🟡 | - | SDL2 preload |
 | Space Cadet | ✅ | | Install the [flatpak](https://flathub.org/apps/com.github.k4zmu2a.spacecadetpinball) |
 | Speedrunners | 🟡 | FNA-XNA | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Speedrunners.png) |
+| Splitgate | 🟡 | Unreal Engine 4 | SDL preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Splitgate.png) |
 | Synergy | 🟡 | Source | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Synergy.png) |
 | Shan Gui (山桂) | ❌ | - | XWayland crash |
 | Shank 2 | 🟡 | - | SDL2: Preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Shank2.png) |
