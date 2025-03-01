@@ -93,7 +93,7 @@ A curated list of tricks to run linux games without XWayland
 | Space Cadet | ✅ | | Install the [flatpak](https://flathub.org/apps/com.github.k4zmu2a.spacecadetpinball) |
 | Speedrunners | 🟡 | FNA-XNA | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Speedrunners.png) |
 | Splitgate | 🟡 | Unreal Engine 4 | SDL preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Splitgate.png) |
-| Super Mario 64 | ✅ | - | SDL2 preload | The fanmade [pc port](https://github.com/sm64-port/sm64-port)
+| Super Mario 64 | ✅ | - | SDL2 preload, The fanmade {pc port](https://github.com/sm64-port/sm64-port) |
 | Synergy | 🟡 | Source | SDL2 preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Synergy.png) |
 | Shan Gui (山桂) | ❌ | - | XWayland crash |
 | Shank 2 | 🟡 | - | SDL2: Preload, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/Shank2.png) |
