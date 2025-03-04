@@ -100,6 +100,7 @@ A curated list of tricks to run linux games without XWayland
 | Sid Meier's Civilization® V | ❌ | Gamebryo | SDL2: crash |
 | Snow Light | ❌ | - | SDL2: logo and crash |
 | Solitaire | ✅ | - | Install from [flatpak](https://flathub.org/apps/org.kde.kpat) |
+| Sonic Unleashed | ✅ | - | Install from [flatpak](https://github.com/hedge-dev/UnleashedRecomp), [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/Games/Screenshots/sonic_unleashed.png) |
 | Sound of Drop - fall into poison - | 🟡 | - | SDL2 preload |
 | Star Conflict | ❌ | Hammer Engine | SDL2: crash |
 | Stellaris | ❌ | Clausewitz Engine | SDL2: crash |
