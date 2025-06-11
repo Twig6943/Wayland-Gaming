@@ -23,7 +23,7 @@ A curated list of tricks to run linux games without XWayland
 | Counter-Strike | 🟡 | GoldSource | SDL2 preload, [screenshot](/Games/Screenshots/counter_strike.png) |
 | Counter-Strike: Source | 🟡 | Source | SDL2 preload, [screenshot](/Games/Screenshots/counter_strike_source.png) |
 | Counter-Strike: Global Offensive | 🟡 | Source | SDL2 preload |
-| Counter-Strike: 2 | 🟡 | Source 2 | SDL2 preload (this is very experimental) |
+| Counter-Strike: 2 | 🟡 | Source 2 | SDL2 preload |
 | Crusader Kings II | ❌ | Clausewitz Engine | SDL2: crash |
 | Day of Infamy | 🟡 | Source | SDL2 preload |Day of Dragons
 | DDNet | ✅ | | Install from [flatpak](https://flathub.org/apps/tw.ddnet.ddnet), [Screenshot](/Games/Screenshots/ddnet.png) |
