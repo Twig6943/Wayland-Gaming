@@ -28,13 +28,13 @@ Playstation 3 ✅ | ([RPCS3](https://rpcs3.net/))
 
 Playstation 4 ✅ | ([ShadPS4](https://shadps4.net))
 
-Playstation Vita ✅ | ([Vita3k](https://vita3k.org/) Use the `SDL_VIDEODRIVER=wayland,x11` env var to activate wayland backend, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/emulators/screenshots/XEMU.png) ) 
+Playstation Vita ✅ | ([Vita3k](https://vita3k.org/) Use the `SDL_VIDEODRIVER=wayland,x11` env var to activate wayland backend, [screenshot](/emulators/screenshots/XEMU.png) ) 
 
 Original Xbox ✅ | ([xemu](https://xemu.app/))
 
-Xbox 360 🟨 | ([XENIA](https://github.com/xenia-canary/xenia-canary) Wine wayland) (The highly experimental linux build also supports wayland, [screenshot](https://raw.githubusercontent.com/Twig6943/Wayland-Gaming/refs/heads/main/emulators/screenshots/Xenia_Linux.png))
+Xbox 360 🟨 | ([XENIA](https://github.com/xenia-canary/xenia-canary) Wine wayland) (The highly experimental linux build also supports wayland, [screenshot](/emulators/screenshots/Xenia_Linux.png))
 
-Nintendo Switch ✅ |  (Yuzu and its forks/Ryujinx might not work without xwayland)
+Nintendo Switch ✅ |  (Yuzu and its forks work fine without xwayland. Ryujinx and its forks might not work without xwayland)
 
 Nintendo Wii U ✅ | ([Cemu](https://cemu.info/)) 
 
@@ -42,6 +42,6 @@ Nintendo Wii U ✅ | ([Cemu](https://cemu.info/))
 
 # We're looking for contributors ❗
 
-Please create an issue if you're intrested. 
+Please create an issue if you're interested. 
 
 ### This is a fork of [spazziale](https://github.com/spazziale/Wayland-Native-Games-Compatibility-List)'s repository.
