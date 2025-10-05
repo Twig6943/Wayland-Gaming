@@ -1,6 +1,6 @@
 # Wayland-Gaming
 
-A repo dedicated to wayland games gaming utils etc..
+A repo dedicated to documenting games that support wayland.
 
 # Game launchers & utils
 
