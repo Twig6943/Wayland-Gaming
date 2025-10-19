@@ -76,6 +76,7 @@ A curated list of tricks to run linux games without XWayland
 | Oaken | 🟡 | Unity | SDL2: preload, [screenshot](/Games/Screenshots/Oaken.png) |
 | Osu! | ✅ |  | Use the [flatpak](https://flathub.org/apps/sh.ppy.osu), [screenshot](/Games/Screenshots/Osu.png) |
 | PAYDAY 2 | ❌ | Diesel Engine | SDL2: crash |
+| Plants vs Zombies: Replanted | ❌ | Frostbite engine | Proton wayland, [screenshot](/Games/Screenshots/pvz_replanted.png) |
 | Plants vs Zombies: Garden Warfare 2 | ❌ | Frostbite engine | Proton wayland, [screenshot](/Games/Screenshots/garden_warfare_2.png) |
 | Portal | ❌ | Source | SDL2: logo and crash |
 | Portal 2 | 🟡 | Source | SDL2 preload |
