@@ -76,7 +76,7 @@ A curated list of tricks to run linux games without XWayland
 | Oaken | 🟡 | Unity | SDL2: preload, [screenshot](/Games/Screenshots/Oaken.png) |
 | Osu! | ✅ |  | Use the [flatpak](https://flathub.org/apps/sh.ppy.osu), [screenshot](/Games/Screenshots/Osu.png) |
 | PAYDAY 2 | ❌ | Diesel Engine | SDL2: crash |
-| Plants vs Zombies: Replanted | ❌ | Frostbite engine | Proton wayland, [screenshot](/Games/Screenshots/pvz_replanted.png) |
+| Plants vs Zombies: Replanted | ❌ | Unity | Proton wayland, [screenshot](/Games/Screenshots/pvz_replanted.png) |
 | Plants vs Zombies: Garden Warfare 2 | ❌ | Frostbite engine | Proton wayland, [screenshot](/Games/Screenshots/garden_warfare_2.png) |
 | Portal | ❌ | Source | SDL2: logo and crash |
 | Portal 2 | 🟡 | Source | SDL2 preload |
@@ -85,8 +85,8 @@ A curated list of tricks to run linux games without XWayland
 | Project Zomboid |  | LWJGL | XWayland: compatibility mode |
 | Robocraft | ❌ | Unity | SDL2: No visible window |
 | Roblox | ✅ |  | Use [sober](https://sober.vinegarhq.org/) to play, [screenshot](/Games/Screenshots/Roblox.png) |
-| ReIII | 🟡 | RAGE | Game uses glfw for windowing soo all you need to do is compile with wayland support (Couldn't find a binary that has wayland support enabled) |
-| ReVC | 🟡 | RAGE | Game uses glfw for windowing soo all you need to do is compile with wayland support (Couldn't find a binary that has wayland support enabled) |
+| ReIII | 🟡 | RenderWare | Game uses glfw for windowing soo all you need to do is compile with wayland support (Couldn't find a binary that has wayland support enabled) |
+| ReVC | 🟡 | RenderWare | Game uses glfw for windowing soo all you need to do is compile with wayland support (Couldn't find a binary that has wayland support enabled) |
 | Rocket League® | 🟡 | Unreal Engine 3 | SDL2 preload Native RL deprecated, for online game need Proton/RocketLeague |
 | Saints Row IV | 🟡 | - | SDL2 preload |
 | Saints Row: The Third | 🟡 | - | SDL2 preload |
