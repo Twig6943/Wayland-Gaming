@@ -24,7 +24,7 @@ Retroarch ✅ | ([all retroarch cores](https://docs.libretro.com/guides/core-lis
 
 Android ✅ | ([Waydroid](waydro.id)) 
 
-Playstation 3 ✅ | ([RPCS3](https://rpcs3.net/)) 
+Playstation 3 ✅ | ([RPCS3](https://rpcs3.net)) 
 
 Playstation 4 ✅ | ([ShadPS4](https://shadps4.net))
 
@@ -32,9 +32,9 @@ Playstation Vita ✅ | ([Vita3k](https://vita3k.org/) Use the `SDL_VIDEODRIVER=w
 
 Original Xbox ✅ | ([xemu](https://xemu.app/))
 
-Xbox 360 🟨 | ([XENIA](https://github.com/xenia-canary/xenia-canary) Wine wayland) (The highly experimental linux build also supports wayland, [screenshot](/emulators/screenshots/Xenia_Linux.png))
+Xbox 360 ✅ | ([XENIA-edge](https://github.com/has207/xenia-edge) 
 
-Nintendo Switch ✅ |  (Yuzu and its forks work fine without xwayland. Ryujinx and its forks might not work without xwayland)
+Nintendo Switch ✅ |  (Yuzu and its forks work fine without xwayland. ~~Ryujinx and its forks might not work without xwayland~~ whilst ryujinx forks are hard to find these days avalonia now has experimental wayland support)
 
 Nintendo Wii U ✅ | ([Cemu](https://cemu.info/)) 
 
